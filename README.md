@@ -81,7 +81,7 @@ Ultimamente tenho focado meus estudos no aprofundamento da arquitetura MVC com L
 
 ### 📊 Estatísticas
 
-<div align="center">
+<!-- <div align="center">
   <img 
     alt="GitHub Stats" 
     height="200" 
@@ -93,5 +93,5 @@ Ultimamente tenho focado meus estudos no aprofundamento da arquitetura MVC com L
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLuizaVicentini&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</div>
+</div> -->
 
