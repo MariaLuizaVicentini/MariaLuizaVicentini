@@ -2,7 +2,7 @@
 
 **Desenvolvedora em formação | Backend & Integrações**
 
-👋 Olá! Tenho 22 anos e curso Gestão de Tecnologia da Informação na PUC Campinas.
+Olá! Tenho 22 anos e curso Gestão de Tecnologia da Informação na PUC Campinas.
 <br>
 Tenho experiencia em desenvolvimento backend, integrações entre sistemas e automações, conectando APIs, banco de dados e interfaces de forma eficiente.
 
