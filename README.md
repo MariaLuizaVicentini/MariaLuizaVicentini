@@ -1,10 +1,14 @@
 # 👩🏻‍💻 Malu Vicentini
 
-**Desenvolvedora em formação | Backend & Integrações**
+**Desenvolvedora fullstack | Backend & Frontend**
 
 Olá! Tenho 23 anos e curso Gestão de Tecnologia da Informação na PUC Campinas.
 <br>
-Tenho experiencia em desenvolvimento backend, integrações entre sistemas e automações, conectando APIs, banco de dados e interfaces de forma eficiente.
+
+Sou Web Developer com atuação em backend e desenvolvimento de integrações entre sistemas. Nos últimos anos, além da experiência prática com Python, PHP, JS/TS e React, passei a direcionar também, meus estudos para engenharia de software e arquitetura de software, buscando compreender não apenas como desenvolver uma aplicação, mas também como estruturar ambientes, processos e ferramentas que sustentam o desenvolvimento.
+<br>
+
+Sigo o princípio de que um bom artesão conhece profundamente suas ferramentas e, por isso, realiza um bom trabalho. Procuro aplicar essa mesma ideia ao desenvolvimento de software. É essa forma de enxergar o desenvolvimento que sustenta minha rotina de estudos, conciliando prática, documentação e projetos pessoais para evoluir continuamente na carreira.
 
 ---
 
