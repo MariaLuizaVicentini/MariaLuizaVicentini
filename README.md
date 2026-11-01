@@ -1,30 +1,63 @@
 # 👩🏻‍💻 Malu Vicentini
 
-**Desenvolvedora fullstack | Backend & Frontend**
+**Desenvolvedora Full Stack | Backend, Frontend & Integrações**
 
-Olá! Tenho 23 anos e curso Gestão de Tecnologia da Informação na PUC Campinas.
-<br>
+Dev com atuação prática em backend e frontend, trabalhando no desenvolvimento e manutenção de APIs, integrações entre sistemas, implementação de funcionalidades e correção de bugs.
 
-Sou Web Developer com atuação em backend e desenvolvimento de integrações entre sistemas. Nos últimos anos, além da experiência prática com Python, PHP, JS/TS e React, passei a direcionar também, meus estudos para engenharia de software e arquitetura de software, buscando compreender não apenas como desenvolver uma aplicação, mas também como estruturar ambientes, processos e ferramentas que sustentam o desenvolvimento.
-<br>
+Atualmente, curso Gestão da Tecnologia da Informação na PUC Campinas e direciono meus estudos para engenharia de software e arquitetura de sistemas.
 
-Sigo o princípio de que um bom artesão conhece profundamente suas ferramentas e, por isso, realiza um bom trabalho. Procuro aplicar essa mesma ideia ao desenvolvimento de software. É essa forma de enxergar o desenvolvimento que sustenta minha rotina de estudos, conciliando prática, documentação e projetos pessoais para evoluir continuamente na carreira.
+Tenho interesse especial em backend e na comunicação entre diferentes sistemas. Gosto de investigar problemas, compreender o funcionamento das ferramentas que utilizo e buscar soluções que priorizem organização, confiabilidade e manutenibilidade do código.
+
+Acredito que bons fundamentos fazem diferença na construção de software. Por isso, mantenho uma rotina consistente de estudos, leitura técnica e desenvolvimento de projetos pessoais, buscando consolidar conhecimentos e evoluir continuamente como profissional.
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br/>
 
-<img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-<img align="center" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-<img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <!-- Linguagens -->
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+
+  <!-- Frontend -->
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+  <!-- Backend e Banco de Dados -->
+  <img align="center" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+
+  <!-- Ferramentas e Ambiente -->
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 </div>
 
 ---
+
+### 📈 Consistência e atividade
+
+Acredito que evolução técnica é resultado de prática contínua. Além da experiência profissional, mantenho projetos pessoais e exercícios de programação como parte da minha rotina de desenvolvimento.
+
+Minha atividade no GitHub reflete esse processo: commits, experimentos, estudos e projetos que fazem parte da minha evolução como desenvolvedora.
+
+---
+
+### 📚 Atualmente revisando
+
+- Fundamentos de programação e lógica
+- Testes automatizados e qualidade de código
+- comandos linux do básico ao avançado
+
+---
+
+<div align="center">
+
+**Construindo conhecimento, uma implementação de cada vez.**
+
+</div>
