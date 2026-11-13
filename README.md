@@ -50,9 +50,9 @@ Minha atividade no GitHub reflete esse processo: commits, experimentos, estudos 
 
 ### 📚 Atualmente revisando
 
-- Fundamentos de programação e lógica
-- Testes automatizados e qualidade de código
-- comandos linux do básico ao avançado
+- Linux: Processos, permissões, memória
+- Golang
+- Logs: níveis, estrutura, leitura
 
 ---
 
